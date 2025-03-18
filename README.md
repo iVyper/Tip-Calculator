@@ -31,6 +31,10 @@ Tip Calculator is a simple Python application designed to help users quickly cal
 4. **Follow the Prompts:** Input the bill total, desired tip percentage, and the number of people splitting the bill as prompted by the application.
 
 
+## Demo
+![Tip Calculator Demo](https://i.imgur.com/FSlDfKV.gif)
+
+
 ## License
 
 This project is open-source and available under the [MIT License](https://choosealicense.com/licenses/mit/).
