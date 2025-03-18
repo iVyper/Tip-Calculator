@@ -32,7 +32,7 @@ Tip Calculator is a simple Python application designed to help users quickly cal
 
 
 ## Demo
-![Tip Calculator Demo](https://i.imgur.com/FSlDfKV.gif)
+![Tip Calculator Demo](https://imgur.com/a/DI1qjMv)
 
 
 ## License
